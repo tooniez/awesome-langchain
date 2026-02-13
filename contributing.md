@@ -4,16 +4,19 @@ The Awesome Langchain curates content and projects using or supporting Langchain
 
 We do not list content that is:
 
+- brand new vibe coded repo without demonstrated traction.
 - not in English.
 - not related to Langchain.
 - not maintained anymore.
 - not online anymore.
 - not open source.
 - not adding value to existing content.
+- 
+When adding a new item, please place it at the _bottom_ of the list.
 
-We do not aim to list all Langchain supported platforms already listed in the Langchain documention, but we may list articles and examples demonstrating their usage.
+We do not aim to list all Langchain-supported platforms already listed in the Langchain documentation, but we may list articles and examples demonstrating their usage.
 
-When adding a new item, please place it at the bottom of the list.
+Submit a PR, not an issue. Any PR that does not follow the guidelines will be automatically closed.
 
 ## Adding something to awesome langchain
 
