@@ -181,14 +181,14 @@ List of non-official ports of LangChain to other languages.
 - [Langchain Tutorials](https://github.com/gkamradt/langchain-tutorials): overview and tutorial of the LangChain Library ![GitHub Repo stars](https://img.shields.io/github/stars/gkamradt/langchain-tutorials?style=social)
 - [LangChain Chinese Getting Started Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide): Chinese LangChain Tutorial for Beginners ![GitHub Repo stars](https://img.shields.io/github/stars/liaokongVFX/LangChain-Chinese-Getting-Started-Guide?style=social)
 - [Flan5 LLM](https://colab.research.google.com/drive/1AVh9dOsG9DKzfK7gOFrJuitPIcLPqlbO?usp=sharing): PDF QA using LangChain for chain of thought and multi-task instructions, Flan5 on HuggingFace
-- [LangChain Handbook](https://github.com/pinecone-io/examples/tree/master/generation/langchain/handbook): Pinecone / James Briggs' LangChain handbook
+- [LangChain Handbook](https://github.com/pinecone-io/examples): Pinecone / James Briggs' LangChain handbook
 - [Query the YouTube video transcripts](https://colab.research.google.com/drive/1sKSTjt9cPstl_WMZ86JsgEqFG-aSAwkn?usp=sharing): Query the YouTube video transcripts, returning timestamps as sources to legitimize the answers
 - [llm-lobbyist](https://github.com/JohnNay/llm-lobbyist): Large Language Models as Corporate Lobbyists
 - [Langchain Semantic Search](https://github.com/venuv/langchain_semantic_search): Search and indexing your own Google Drive Files using GPT3, LangChain, and Python
 - [GPT Political Compass](https://colab.research.google.com/drive/1xt2IsFPGYMEQdoJFNgWNAjWGxa60VXdV)
 - [TextWorld ReAct Agent](https://colab.research.google.com/drive/19WTIWC3prw5LDMHmRMvqNV2loD9FHls6?usp=sharing)
 - [LangChain <> Wolfram Alpha](https://colab.research.google.com/drive/1AAyEdTz-Z6ShKvewbt1ZHUICqak0MiwR?usp=sharing)
-- [BYO Knowledge Graph](https://github.com/prof-frink-lab/slangchain/blob/main/docs/modules/knowledge_graph/examples/byo_knowledge_graph.ipynb)
+- [BYO Knowledge Graph](https://github.com/prof-frink-lab/slangchain)
 - [Large Language Models Course](https://github.com/peremartra/Large-Language-Model-Notebooks-Course) ![GitHub Repo stars](https://img.shields.io/github/stars/peremartra/Large-Language-Model-Notebooks-Course?style=social)
 - [Learn LangChain (JS)](https://github.com/iparesh18/Learn-LangChain) – A structured, example-driven LangChain JS learning repository covering prompts, chains, tools, embeddings, RAG, agents, Puppeteer scraping, and LangGraph-based multi-agent workflows.
 
