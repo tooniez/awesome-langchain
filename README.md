@@ -35,7 +35,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [LangChain](https://github.com/langchain-ai/langchain): the original 🐍 ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social)
 - [LangChain.js](https://github.com/langchain-ai/langchainjs): the js brother ✨ ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langchainjs?style=social)
 - [Concepts](https://docs.langchain.com/docs/): Langchain concepts doc
-- [Twitter account](https://twitter.com/LangChainAI): follow to get fresh updates
+- [Twitter account](https://x.com/LangChainAI): follow to get fresh updates
 - [Youtube Channel](https://www.youtube.com/channel/UCC-lyoTfSrcJzA1ab3APAgw)
 - [Langchain Blog](https://blog.langchain.dev/): The Official Langchain blog
 
