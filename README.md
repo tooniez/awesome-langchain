@@ -95,7 +95,6 @@ List of non-official ports of LangChain to other languages.
 - [Local GPT](https://github.com/PromtEngineer/localGPT): Inspired on Private GPT with the GPT4ALL model replaced with the Vicuna-7B model and using the InstructorEmbeddings instead of LlamaEmbeddings ![GitHub Repo stars](https://img.shields.io/github/stars/PromtEngineer/localGPT?style=social)
 - [GPT Researcher](https://github.com/assafelovic/gpt-researcher): GPT Researcher is an autonomous agent designed for comprehensive online research on a variety of tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social)
 - [ThinkGPT](https://github.com/jina-ai/thinkgpt): Agent techniques to augment your LLM and push it beyond its limits ![GitHub Repo stars](https://img.shields.io/github/stars/jina-ai/thinkgpt?style=social)
-- [Camel-AutoGPT](https://github.com/SamurAIGPT/Camel-AutoGPT): role-playing approach for LLMs and auto-agents like BabyAGI & AutoGPT ![GitHub Repo stars](https://img.shields.io/github/stars/SamurAIGPT/Camel-AutoGPT?style=social)
 - [RasaGPT](https://github.com/paulpierre/RasaGPT): RasaGPT is the first headless LLM chatbot platform built on top of Rasa and Langchain. ![GitHub Repo stars](https://img.shields.io/github/stars/paulpierre/RasaGPT?style=social)
 - [SkyAGI](https://github.com/litanlitudan/skyagi): Emerging human-behavior simulation capability in LLM agents ![GitHub Repo stars](https://img.shields.io/github/stars/litanlitudan/skyagi?style=social)
 - [PyCodeAGI](https://github.com/chakkaradeep/pyCodeAGI): A small AGI experiment to generate a Python app given what app the user wants to build ![GitHub Repo stars](https://img.shields.io/github/stars/chakkaradeep/pyCodeAGI?style=social)
@@ -161,11 +160,9 @@ List of non-official ports of LangChain to other languages.
 - [MM ReAct](https://github.com/microsoft/MM-REACT): Multi Modal ReAct Design
 - [QABot](https://github.com/hardbyte/qabot): Query local or remote files or databases with natural language queries powered by langchain and openai ![GitHub Repo stars](https://img.shields.io/github/stars/hardbyte/qabot?style=social)
 - [FlowGPT](https://github.com/nilooy/flowgpt): Generate diagram with AI ![GitHub Repo stars](https://img.shields.io/github/stars/nilooy/flowgpt?style=social)
-- [langchain-text-summarizer](https://github.com/alphasecio/langchain-text-summarizer): A sample streamlit application summarizing text using LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/alphasecio/langchain-text-summarizer?style=social)
 - [Langchain Chat Websocket](https://github.com/pors/langchain-chat-websockets): About LangChain LLM chat with streaming response over websockets ![GitHub Repo stars](https://img.shields.io/github/stars/pors/langchain-chat-websockets?style=social)
 - [langchain_yt_tools](https://github.com/venuv/langchain_yt_tools): Langchain tools to search/extract/transcribe text transcripts of Youtube videos ![GitHub Repo stars](https://img.shields.io/github/stars/venuv/langchain_yt_tools?style=social)
 - [ThoughtSource⚡](https://github.com/OpenBioLink/ThoughtSource): A framework for the science of machine thinking ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBioLink/ThoughtSource?style=social)
-- [ChatGPT Langchain](https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain): ChatGPT clone using langchain on Huggingface
 - [Chat Math Techniques](https://huggingface.co/spaces/JavaFXpert/gpt-math-techniques): langchain chat with math techniques on Huggingface
 - [Notion QA](https://github.com/hwchase17/notion-qa): Notion Question-Answering Bot ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/notion-qa?style=social)
 - [QNimGPT](https://huggingface.co/spaces/rituthombre/QNim): Play Nim against an IBM Quantum Computer simulator or OpenAI GPT-3.5
@@ -201,7 +198,6 @@ List of non-official ports of LangChain to other languages.
 - [llm-lobbyist](https://github.com/JohnNay/llm-lobbyist): Large Language Models as Corporate Lobbyists
 - [Langchain Semantic Search](https://github.com/venuv/langchain_semantic_search): Search and indexing your own Google Drive Files using GPT3, LangChain, and Python
 - [GPT Political Compass](https://colab.research.google.com/drive/1xt2IsFPGYMEQdoJFNgWNAjWGxa60VXdV)
-- [llm-grovers-search-party](https://github.com/JavaFXpert/llm-grovers-search-party): Leveraging Qiskit, OpenAI and LangChain to demonstrate Grover's algorithm
 - [TextWorld ReAct Agent](https://colab.research.google.com/drive/19WTIWC3prw5LDMHmRMvqNV2loD9FHls6?usp=sharing)
 - [LangChain <> Wolfram Alpha](https://colab.research.google.com/drive/1AAyEdTz-Z6ShKvewbt1ZHUICqak0MiwR?usp=sharing)
 - [BYO Knowledge Graph](https://github.com/prof-frink-lab/slangchain/blob/main/docs/modules/knowledge_graph/examples/byo_knowledge_graph.ipynb)
