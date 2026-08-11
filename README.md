@@ -89,7 +89,7 @@ List of non-official ports of LangChain to other languages.
 ### Agents
 
 - [Private GPT](https://github.com/zylon-ai/private-gpt): Interact privately with your documents using the power of GPT, 100% privately, no data leaks ![GitHub Repo stars](https://img.shields.io/github/stars/zylon-ai/private-gpt?style=social)
-- [CollosalAI Chat](https://github.com/hpcaitech/ColossalAI/tree/main/applications/Chat): implement LLM with RLHF, powered by the Colossal-AI project ![GitHub Repo stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=social)
+- [Colossal-AI](https://github.com/hpcaitech/ColossalAI): LLM training and inference system whose ColossalChat application implements LLM with RLHF ![GitHub Repo stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=social)
 - [CrewAI](https://github.com/crewAIInc/crewAI): Cutting-edge framework for orchestrating role-playing, autonomous AI agents. ![GitHub Repo stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=social)
 - [AgentGPT](https://github.com/reworkd/AgentGPT): AI Agents with Langchain & OpenAI (Vercel / Nextjs) ![GitHub Repo stars](https://img.shields.io/github/stars/reworkd/AgentGPT?style=social)
 - [Local GPT](https://github.com/PromtEngineer/localGPT): Inspired on Private GPT with the GPT4ALL model replaced with the Vicuna-7B model and using the InstructorEmbeddings instead of LlamaEmbeddings ![GitHub Repo stars](https://img.shields.io/github/stars/PromtEngineer/localGPT?style=social)
